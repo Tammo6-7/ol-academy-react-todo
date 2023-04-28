@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+  background-color: rgb(78, 99, 115);
+  height: 70px;
+  text-align: center;
+  color: rgb(9, 246, 246);;
+}
+p {
+  font-size: 34px;
+  color:rgb(20, 235, 235);
+}
+p i{
+  font-size: 40px;
+  color:rgb(20, 235, 235);
+}
